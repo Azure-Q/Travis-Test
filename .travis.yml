@@ -8,4 +8,3 @@ script: true
   #- npm run build
   - npm run test
   #- npm run lint
-repo_token: WroGd8H9HNosw0xe4qADgUa3MfSrueC2S
