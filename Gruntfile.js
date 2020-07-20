@@ -3,7 +3,7 @@ module.exports = function(grunt) {
     grunt.initConfig({
         coveralls: {
             options: {
-                coverage_dir: './coverage/'
+                coverage_dir: './coverage/**/'
             }
         }
     });
